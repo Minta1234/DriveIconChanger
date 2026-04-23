@@ -66,7 +66,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Minta1234/drive-folder-icon-setter.git
+git clone https://github.com/Minta1234/DriveIconChanger.git
 cd drive-folder-icon-setter
 
 # (Optional) Install Pillow manually
