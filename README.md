@@ -132,7 +132,7 @@ Your image
 ```
 drive-folder-icon-setter/
 │
-├── icon_setter.py          # Main application (single-file)
+├── DriveIconSetter-V2.py          # Main application (single-file)
 └── README.md
 ```
 
