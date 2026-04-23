@@ -67,7 +67,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/Minta1234/DriveIconChanger.git
-cd drive-folder-icon-setter
+cd DriveIconChanger
 
 # (Optional) Install Pillow manually
 pip install Pillow
@@ -78,10 +78,10 @@ pip install Pillow
 **Right-click → Run as Administrator** is recommended for full functionality.
 
 ```bash
-python icon_setter.py
+python DriveIconSetter-V2.py
 ```
 
-Or double-click `icon_setter.py` → choose "Run as administrator" if prompted.
+Or double-click `DriveIconSetter-V2.py` → choose "Run as administrator" if prompted.
 
 ---
 
