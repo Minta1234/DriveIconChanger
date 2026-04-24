@@ -199,4 +199,4 @@ Website: [minta0077.online](https://minta0077.online)
 
 ---
 
-<p align="center">Made with ❤️ and way too many Registry keys</p>
+<p align="center">Made with Minta0077</p>
