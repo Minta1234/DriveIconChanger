@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?logo=windows)
 ![Version](https://img.shields.io/badge/Version-13.0-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Admin](https://img.shields.io/badge/Requires-Administrator-red)
 
 ---
@@ -186,7 +185,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 ## 📄 License
-This project is licensed under the **Apache License 2.0**
+This project is licensed under the **AGPL-3.0 license**
 See [LICENSE](LICENSE) for details.
 
 ---
