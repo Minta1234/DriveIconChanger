@@ -2,6 +2,8 @@
 
 # 💾 Drive & Folder Icon Setter
 
+<a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=light" alt="GitRoll Profile Badge"/></a>
+
 > **Windows utility to set custom icons for drives and folders — with a built-in crop editor, live Explorer refresh, and cross-platform icon support.**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
