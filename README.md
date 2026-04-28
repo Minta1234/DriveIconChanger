@@ -197,6 +197,5 @@ GitHub: [@Minta1234](https://github.com/Minta1234)
 Website: [minta0077.online](https://minta0077.online)
 
 ---
-![Alt](https://repobeats.axiom.co/api/embed/6b635ef8bfb37c3b04a139ce78f09ddb747ed03d.svg "Repobeats analytics image")
 
 <p align="center">Made with Minta0077</p>
