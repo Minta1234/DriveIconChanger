@@ -193,4 +193,4 @@ Website: [minta0077.online](https://minta0077.online)
 
 ---
 
-<p align="center">Made with Minta0077</p>
+<p align="center">Made with Minta1234</p>
