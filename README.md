@@ -18,10 +18,6 @@
 - Writes to **Windows Registry** (`HKLM\SOFTWARE\...\DriveIcons`) for instant effect
 - Supports **system drives** (C:\\) with ProgramData fallback — no root write errors
 - Creates `autorun.inf` for icon display on other Windows PCs
-- Cross-platform icon files included for portable drives:
-  - 🐧 **Linux KDE/Dolphin** — `.directory` + `drive_icon.png`
-  - 🐧 **Linux GNOME/Nemo/Thunar** — `.xdg-volume-info`
-  - 🍎 **macOS** — `.VolumeIcon.icns` (structure prepared)
 - **Auto Eject** after applying (USB/Removable drives)
 - Removes icons cleanly — no leftover blank icon bug
 
